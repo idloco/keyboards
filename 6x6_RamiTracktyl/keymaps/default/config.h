@@ -20,4 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MASTER_LEFT
 //#define MASTER_RIGHT
 
+#define SERIAL_USART_FULL_DUPLEX   // Enable full duplex operation mode.
+#define SERIAL_USART_TX_PIN GP0     // USART TX pin
+#define SERIAL_USART_RX_PIN GP1     // USART RX pin
+
+
 //#define EE_HANDS
