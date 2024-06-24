@@ -24,5 +24,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SERIAL_USART_TX_PIN GP0     // USART TX pin
 #define SERIAL_USART_RX_PIN GP1     // USART RX pin
 
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP6
+#define I2C1_SCL_PIN GP7
+
 
 //#define EE_HANDS

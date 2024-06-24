@@ -13,3 +13,6 @@ AUDIO_ENABLE = no           # Audio output
 SPLIT_KEYBOARD = yes
 
 SERIAL_DRIVER = vendor
+
+#OLED Settings
+OLED_ENABLE = yes
